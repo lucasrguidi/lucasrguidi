@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**lucasrguidi/lucasrguidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi There! 👋</h1>
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasrguidi/)](https://www.linkedin.com/in/lucasrguidi/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Lucas Guidi
+(React JS | Next JS | NodeJS  | Javascript | HTML | CSS | Typescript | TailwindCSS | Angular | Laravel ) 🚀
+- 👩‍💻 Front-end Developer | eTopocart
+- 🎓 Software Engineering Student
+- 🌐 Passionate about web development and discover new technologies
+- 💡 Always wanting to learn something new
+
+<div align="left">
+  
+[![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Guidi&theme=red-white)](https://github.com/lucasrguidi/github-readme-stats)
+  
+ </div>
+
